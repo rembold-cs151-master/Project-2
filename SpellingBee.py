@@ -36,6 +36,11 @@ PANGRAM_COLOR = "#52B3DC"
 # Main Program
 
 def spelling_bee():
+    """
+    Main program to run Spelling Bee. All code besides above constants
+    should either be defined within this function or within a separate
+    helper function.
+    """
     puzzle = "DVONCYE"
     print("Words appearing in {}:".format(puzzle))
     list_spelling_bee_words_on_console(puzzle)
