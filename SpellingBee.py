@@ -1,4 +1,12 @@
+################################################################################
 # File: SpellingBee.py
+# Collaborators:
+# Brief description of any extensions:
+#
+#
+#
+################################################################################
+
 """
 This program provides the basic framework for the SpellingBee program
 you need to implement for Project #2. Be sure to change this comment
